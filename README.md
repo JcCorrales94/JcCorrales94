@@ -1,6 +1,6 @@
 # ¡Bienvenido! 
 
-Me llamo Jose Carlos Corrales y soy Desarrollador Web Full Stack Developer 💻 y Mecatrónico Industrial🔧. 
+Me llamo Jose Carlos Corrales y soy Full Stack Developer 💻 y Mecatrónico Industrial🔧. 
 
 Sé que lo primero que os vais a preguntar es: ¿Cómo un Mecatrónico Industrial ha acabado siendo un desarrollador Web Developer?. Y la respuesta es clara y sencilla, nunca hay que olvidar nuestras metas. 
 
