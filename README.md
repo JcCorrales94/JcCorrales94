@@ -1,6 +1,6 @@
 # ¡Bienvenido! 
 
-Me llamo Jose Carlos Corrales y soy Developer 💻 y Mecatrónico Industrial🔧. 
+Me llamo Jose Carlos Corrales y soy Developer 💻 y Mecatrónico Industrial🔧.   <a href="https://app.daily.dev/Roselty"><img src="https://api.daily.dev/devcards/a210e2763fae4c6ab0de63d51bc5a45a.png?r=7fc" width="400" alt="José Corrales's Dev Card"/></a>
 
 Sé que lo primero que os vais a preguntar es: ¿Cómo un Mecatrónico Industrial ha acabado siendo un desarrollador Web Developer?. Y la respuesta es clara y sencilla, nunca hay que olvidar nuestras metas. 
 
@@ -20,4 +20,4 @@ Mis años de experiencia como técnico mecatrónico me ha provisto de una amplia
 
 🔔 Me considero una persona que siempre destaca por su porte, educación, formalidad y habilidades comunicativas.
 
-<a href="https://app.daily.dev/Roselty"><img src="https://api.daily.dev/devcards/a210e2763fae4c6ab0de63d51bc5a45a.png?r=7fc" width="400" alt="José Corrales's Dev Card"/></a>
+
