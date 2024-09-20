@@ -1,7 +1,7 @@
 # ¡Bienvenido! 
 
 <div>
-  Me llamo Jose Carlos Corrales y soy 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 💻 y Mecatrónico Industrial🔧.⁣<br/>
+  Me llamo Jose Carlos Corrales y soy 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 💻 y Mecatrónico Industrial🔧⁣<br/>
   <br/>
   Mi transición de Mecatrónico Industrial a Desarrollador Web Developer se basa en mi pasión por la programación y el deseo de enfocarme en un campo con un prometedor futuro. Durante los últimos 5 años, he trabajado como programador industrial, adquiriendo valiosas habilidades y experiencia en el proceso.<br/>
   ⁣<br/>
