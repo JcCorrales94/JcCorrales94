@@ -15,7 +15,7 @@
   - GIT
 
 ### 🛠 Experiencia:
-He trabajado en proyectos tanto de **desarrollo industrial** como de **desarrollo web**, aplicando las mejores prácticas y adaptándome a las necesidades del cliente para entregar soluciones robustas y escalables.
+He trabajado en proyectos tanto de **desarrollo industrial** como de **desarrollo software**, aplicando las mejores prácticas y adaptándome a las necesidades del cliente para entregar soluciones robustas y escalables.
 
 ### 🚀 Objetivo:
 Mi objetivo es seguir creciendo como desarrollador de software, aplicando mis habilidades para afrontar proyectos desafiantes y contribuir al éxito de soluciones innovadoras.
