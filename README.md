@@ -2,7 +2,7 @@
 
 <div>
 Me llamo Jose Carlos Corrales y soy 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 💻 y Mecatrónico Industrial🔧.⁣
-⁣
+<br/>
 Mi transición de Mecatrónico Industrial a Desarrollador Web Developer se basa en mi pasión por la programación y el deseo de enfocarme en un campo con un prometedor futuro. Durante los últimos 5 años, he trabajado como programador industrial, adquiriendo valiosas habilidades y experiencia en el proceso.
 ⁣
 Decidí dar un paso hacia el desarrollo web y completé con éxito el bootcamp 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 W𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 con especialización en .𝗡𝗘𝗧 de CodeHouse. 
