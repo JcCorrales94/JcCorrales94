@@ -1,28 +1,23 @@
 # ¡Bienvenido! 
 
-<div style="display: flex;">
-  <div>
-Me llamo Jose Carlos Corrales y soy Developer 💻 y Mecatrónico Industrial🔧.
+<div>
+Me llamo Jose Carlos Corrales y soy 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 💻 y Mecatrónico Industrial🔧.⁣
+⁣
+Mi transición de Mecatrónico Industrial a Desarrollador Web Developer se basa en mi pasión por la programación y el deseo de enfocarme en un campo con un prometedor futuro. Durante los últimos 5 años, he trabajado como programador industrial, adquiriendo valiosas habilidades y experiencia en el proceso.
+⁣
+Decidí dar un paso hacia el desarrollo web y completé con éxito el bootcamp 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 W𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 con especialización en .𝗡𝗘𝗧 de CodeHouse. 
+⁣
+🛠 Las herramientas de desarrollo con las que trabajo son:⁣
+⁣
+◾ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Bootstrap, Tailwind, Vite, SASS, Angular, ASP.NET, Blazor.⁣
+⁣
+◾ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: .NET, .NET Framework, NET Core, JavaScript, TypeScript, NodeJS, Express.js.
+⁣
+◾ 𝗗𝗮𝘁𝗮𝗕𝗮𝘀𝗲: MySQL, SQL Server, MongoDB⁣ y SQL Azure
 
-Sé que lo primero que os vais a preguntar es: ¿Cómo un Mecatrónico Industrial ha acabado siendo un desarrollador Web Developer?. Y la respuesta es clara y sencilla, nunca hay que olvidar nuestras metas. 
+◾𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗧𝗼𝗼𝗹𝘀: GIT
+⁣
+Estoy entusiasmado por aplicar estas habilidades en proyectos desafiantes y contribuir al desarrollo de soluciones innovadoras. Soy un comunicador eficaz, centrado en ofrecer resultados de alta calidad y construir relaciones sólidas con los clientes y el equipo.
 
-Desde muy joven me ha encantado la programación y proponerme nuevos retos que superar, es por ello que decidí realizar un giro de 180º en mi vida y tras 5 años en el sector industrial, volver a estudiar. Siempre enfocado en aquello que me gusta que es la programación.
-
-Para ello me puse manos a la obra y empecé con el bootcamp de Full Stack Web Developer con especialización en .NET de CodeHouse.
-
-🛠 as herramientas de desarrollo con las que trabajo son:
-
-◾ Frontend: HTML, CSS, Bootstrap, SASS, Angular.
-
-◾ Backend: Javascript, Typescript, MySQL, NodeJS, GIT, MongoDB, NodeExpress y .NET
-
-Aunque el bootcamp se llame Full Stack Developer, evito llamarme de tal forma porque considero que necesitaré muchos años de experiencia para poder llamarme de tal forma. Es por ello, que diré que mi preferencia es el Backend aunq tengo conocimientos avanzados en Frontend 
-
-Mis años de experiencia como técnico mecatrónico me ha provisto de una amplia experiencia en resolución de problemas, desde como analizar un problema junto al cliente, hasta su resolución. Destacando la transparencia con el cliente y el buen trato con él. 
-
-🔔 Me considero una persona que siempre destaca por su porte, educación, formalidad y habilidades comunicativas.
+🔔 Mi objetivo es seguir creciendo como desarrollador de software y contribuir al éxito de proyectos emocionantes en el futuro.
   </div>
-
-  <div>   <a href="https://app.daily.dev/Roselty"><img src="https://api.daily.dev/devcards/a210e2763fae4c6ab0de63d51bc5a45a.png?r=7fc" width="400" alt="José Corrales's Dev Card"/></a> </div>
-
-</div>
